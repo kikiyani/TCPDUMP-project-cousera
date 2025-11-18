@@ -17,5 +17,7 @@ tcpdump -c 10 -#xxtttt host cousera.org and port 443 (this way we can filter on 
 
 Creating a script:
 <img width="254" height="50" alt="image" src="https://github.com/user-attachments/assets/b52b12ef-7850-464e-b941-626fddb87173" />
+
+
 Executing the script with proper permissions:
 <img width="363" height="98" alt="image" src="https://github.com/user-attachments/assets/9d113240-48d2-4629-af5e-1cddbaab403c" />
